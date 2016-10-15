@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>作品</title>
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="css/index.css"/>
+    <link type="text/css" rel="stylesheet" href="css/xiangce.css"/>
+
+    <!--[if lt IE 9]>
+
+    <script src="js/html5shiv.min.js"></script>
+    <script src="js/respond.min.js"></script>
+
+    <![endif]-->
+    <style>
+
+    </style>
+</head>
+<body>
+
+<!--顶部导航-->
+<!--响应式导航条-->
+<div id="header" class="navbar navbar-default navbar-fixed-top">
+    <div class="container navColor">
+        <div class="navbar-header">
+            <a href="#" class="navbar-brand">
+                <img src="img/logo.png" class="logo"/>
+            </a>
+            <a href="#menu" class="navbar-toggle" data-toggle="collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </a>
+        </div>
+        <div id="menu" class="navbar-collapse collapse">
+            <span class="navbar-left navbar-text nav">我的博客</span>
+            <ul class="nav navbar-nav navbar-right nav-pills">
+                <li><a class="navbar-link" href="index.html">首页</a></li>
+                <li><a class="navbar-link" href="xiangce.html">相册</a></li>
+                <li><a class="navbar-link" href="riji.html">日记</a></li>
+                <li><a class="navbar-link" href="ziliao.html">资料</a></li>
+                <li><a class="navbar-link" href="zuoping.html">作品</a></li>
+                <li><a class="navbar-link" href="guanyu.html">关于</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!--主体内容-->
+<div class="main">
+    <div class="container">
+        <!--头部图片-->
+        <div class="row">
+            <div class="col-xs-12">
+                <!--顶部小轮播-->
+                <div id="lunbo1" class="carousel slide" data-ride="carousel" data-interval="2000">
+                    <div class="carousel-inner">
+                        <div class="item active">
+                            <img src="img/11a.jpg" class="top_img"/>
+
+                            <div class="carousel-caption">
+                                <h4>孤灯怜宿处</h4>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="img/22a.jpg" class="top_img"/>
+
+                            <div class="carousel-caption">
+                                <h4>风吹草地见牛羊</h4>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="img/33a.jpg" class="top_img"/>
+
+                            <div class="carousel-caption">
+                                <h4>秋露、夜荷</h4>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="img/44a.jpg" class="top_img"/>
+
+                            <div class="carousel-caption">
+                                <h4>孤帆远影碧空尽</h4>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <!--轮播广告外部：上/下一张按钮、序号标志-->
+                    <a data-slide="prev" class="left carousel-control" href="#lunbo1">
+                        <span class="glyphicon glyphicon-chevron-left"></span>
+                    </a>
+                    <a data-slide="next" class="right carousel-control" href="#lunbo1">
+                        <span class="glyphicon glyphicon-chevron-right"></span>
+                    </a>
+
+                    <ul class="carousel-indicators">
+                        <li data-slide-to="0" data-target="#lunbo1" class="active"></li>
+                        <li data-slide-to="1" data-target="#lunbo1"></li>
+                        <li data-slide-to="2" data-target="#lunbo1"></li>
+                        <li data-slide-to="3" data-target="#lunbo1"></li>
+                    </ul>
+
+                </div>
+
+
+            </div>
+        </div>
+
+        <div class="row one1">
+            <div class="col-xs-12">
+                <h4>one</h4>
+                <div class="center-block" style="height:5px;width:80%;background-color: #DC4E2A;"></div>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+
+
+<!--页面最底部-->
+<!--页面最底部部分-->
+<div class="footer">
+    <div class="container">
+        <div class="text-center">
+            <span>1771890984@qq.com &nbsp; Copyright ©2016</span>
+        </div>
+    </div>
+
+</div>
+
+
+<div id="myModal" class="modal fade " tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel"
+     aria-hidden="true">
+    <div class="modal-dialog modal-sm">
+        <div class="modal-content">
+            <div class="modal-header">
+                <a href="#" data-dismiss="modal"><span class="close">&times;</span></a>
+                <h4>我是一个学霸</h4>
+
+            </div>
+            <div class="modal-body">
+                <h4>我是一个天才</h4>
+            </div>
+            <div class="modal-footer">
+                <a href="#" class="btn btn-info">保存</a>
+                <a href="#" class="btn btn-danger" data-dismiss="modal"><span>关闭</span></a>
+            </div>
+        </div>
+    </div>
+</div>
+<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<!--<script src="http://cdn.bootcss.com/jquery/1.11.2/jquery.min.js"></script>-->
+
+<script src="js/jquery-1.11.3.js"></script>
+<script src="js/index.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
+<script>
+    (function () {
+        var s = document.createElement("script");
+        s.onload = function () {
+            bootlint.showLintReportForCurrentDocument([]);
+        };
+        s.src = "js/bootlint.js";
+        document.body.appendChild(s)
+    })();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,17 @@
+/*头部轮播图片*/
+.container{
+	background-color: #333;
+}
+.top_img{
+	width:100%;
+}
+
+div.main div.container {
+	padding-left:0;
+	padding-right:0;
+}
+div.one1 h4{
+	color:#fff;
+}
+
+

@@ -1,0 +1,43 @@
+.section .container .row .col-sm-7{
+    padding: 0;
+}
+h2,h4{
+    padding-top:0;
+    margin-top:0;
+}
+.section .container{
+    padding-left:45px;
+    padding-right:45px;
+
+}
+/*字体颜色*/
+.section .container .row{
+    color:#fff;
+    margin-bottom:30px;
+}
+
+/*地址信息框*/
+.addr{
+    background-color: #DF7778;
+    padding:10px;
+    margin-top:15px;
+    padding-left:20px;
+    border-radius:10px;
+    margin-left:30px;
+}
+
+/*input信息*/
+.section .container .row input{
+    background-color:#7E6F6F ;
+    margin-top:10px;
+    margin-bottom:15px;
+}
+
+.row .col-sm-6{
+    padding-left:0;
+}
+
+
+.lianxiwoba {
+    padding:50px;
+}

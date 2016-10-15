@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>主页</title>
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/index.css"/>
+
+    <!--[if lt IE 9]>
+
+    <script src="js/html5shiv.min.js"></script>
+    <script src="js/respond.min.js"></script>
+
+    <![endif]-->
+    <style>
+
+    </style>
+</head>
+<body>
+<!--响应式导航条-->
+<div class="navbar navbar-default navbar-fixed-top">
+    <div class="container navColor">
+        <div class="navbar-header">
+            <a href="#" class="navbar-brand">
+                <img src="img/logo.png" class="logo"/>
+            </a>
+            <a href="#menu" class="navbar-toggle" data-toggle="collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </a>
+        </div>
+        <div id="menu" class="navbar-collapse collapse">
+            <span class="navbar-left navbar-text nav">我的博客</span>
+            <ul class="nav navbar-nav navbar-right nav-pills">
+                <li><a class="navbar-link" href="index.html">首页</a></li>
+                <li><a class="navbar-link" href="xiangce.html">相册</a></li>
+                <li><a class="navbar-link" href="riji.html">日记</a></li>
+                <li><a class="navbar-link" href="ziliao.html">资料</a></li>
+                <li><a class="navbar-link" href="zuoping.html">作品</a></li>
+                <li><a class="navbar-link" href="guanyu.html">关于</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<!--主体内容-->
+<div class="main">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 lunbo_group">
+                <!--<img src="img/44444.jpg" class="img-responsive lunbo"/>-->
+                <!--<span class="glyphicon"></span>-->
+
+
+                <div id="lunbo1" class="carousel slide" data-ride="carousel" data-interval="2000">
+                    <div class="carousel-inner">
+                        <div class="item active">
+                            <img src="img/44444.jpg" class="lunbo"/>
+
+                            <div class="carousel-caption">
+                                <h4>孤灯怜宿处</h4>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="img/11111a.jpg" class="lunbo"/>
+
+                            <div class="carousel-caption">
+                                <h4>风吹草地见牛羊</h4>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="img/22222a.jpg" class="lunbo"/>
+
+                            <div class="carousel-caption">
+                                <h4>薰衣草花田</h4>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="img/33333a.jpg" class="lunbo"/>
+
+                            <div class="carousel-caption">
+                                <h4>孤帆远影碧空尽</h4>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <img src="img/55555a.jpg" class="lunbo"/>
+
+                            <div class="carousel-caption">
+                                <h4>大路、风车</h4>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!--轮播广告外部：上/下一张按钮、序号标志-->
+                    <a data-slide="prev" class="left carousel-control" href="#lunbo1">
+                        <span class="glyphicon glyphicon-chevron-left"></span>
+                    </a>
+                    <a data-slide="next" class="right carousel-control" href="#lunbo1">
+                        <span class="glyphicon glyphicon-chevron-right"></span>
+                    </a>
+
+                    <ul class="carousel-indicators">
+                        <li data-slide-to="0" data-target="#lunbo1" class="active"></li>
+                        <li data-slide-to="1" data-target="#lunbo1"></li>
+                        <li data-slide-to="2" data-target="#lunbo1"></li>
+                        <li data-slide-to="3" data-target="#lunbo1"></li>
+                        <li data-slide-to="4" data-target="#lunbo1"></li>
+                    </ul>
+
+                </div>
+
+
+            </div>
+        </div>
+
+
+        <div class="row one1">
+            <div class="col-xs-12">
+                <h4>one</h4>
+            </div>
+        </div>
+
+        <!--三幅小图片-->
+        <div class="row threePic">
+            <div class="col-sm-4 col-xs-12 text-center">
+                <div class="mask_group">
+                    <div class="mask">
+
+                    </div>
+                    <div class="outcaption">
+                        <h4 class="text-center"><b>蒲公英</b></h4>
+
+                        <p class="text-center">来生愿做蒲公英</p>
+
+                        <p class="text-center">无牵无挂、无欲无求，随风而动，随欲而行</p>
+                    </div>
+
+                    <img src="img/77777.jpg" class="img-responsive bor_white "/>
+
+                </div>
+                <h4>蒲公英</h4>
+
+                <p>倾听自然、感受生活</p>
+                <a href="#" class="btn-default btn" data-toggle="modal" data-target="#myModal">自然</a>
+            </div>
+            <div class="col-sm-4 col-xs-12 text-center">
+                <div class="mask_group">
+                    <div class="mask">
+
+                    </div>
+                    <div class="outcaption">
+                        <h4 class="text-center"><b>仙人球</b></h4>
+
+                        <p class="text-center">注定多刺仙人球做不成娇艳的四季梅</p>
+
+                        <p class="text-center">然而它顽强的生命力则是无可比拟的</p>
+                    </div>
+
+                    <img src="img/88888a.jpg" class="img-responsive bor_white " data-toggle="modal"
+                         data-target="#myModal"/>
+
+                </div>
+                <h4>仙人球</h4>
+
+                <p>捧起手中的仙人球，微微一笑间仿佛春风佛面</p>
+                <a href="#" class="btn-default btn">生活</a>
+            </div>
+            <div class="col-sm-4 col-xs-12 text-center">
+                <div class="mask_group">
+                    <div class="mask">
+
+                    </div>
+                    <div class="outcaption">
+                        <h4 class="text-center"><b>相机</b></h4>
+
+                        <p class="text-center">我愿用相机记录下生活的每时每刻</p>
+
+                        <p class="text-center">让时钟在我的手里停住</p>
+                    </div>
+
+                    <img src="img/bbbbba.jpg" class="img-responsive bor_white " data-toggle="modal"
+                         data-target="#myModal"/>
+
+                </div>
+                <h4>电相机</h4>
+
+                <p>让画面在自己手里静止</p>
+                <a href="#" class="btn-default btn">兴趣</a>
+
+            </div>
+        </div>
+
+        <div class="row one1">
+            <div class="col-xs-12">
+                <h4>two</h4>
+            </div>
+        </div>
+
+
+        <!--尾部介绍部分-->
+        <div class="row detail_line two1">
+            <div class="col-sm-5 col-xs-12">
+                <img src="img/psb (3).jpg" class="img-responsive quse wei1"/>
+            </div>
+            <div class="col-sm-7 col-xs-12">
+                <p class="text-left det_top">
+                    和法规和高房价将地方哈地方的发家第三方地方哈大家都发好多了爱对方地方哈地方的发家第三方地方哈大家都发好多了爱对方答答复答复和法规和高房价将地方哈地方的发家第三方地方哈大家都发好多了爱对方地方哈地方的发家第三方地方哈大家都发好多了爱对方答答复答</p>
+                <a href="#" class="btn btn-warning btn-group-sm" data-toggle="modal" data-target="#myModal">收藏</a>
+                <a href="#" class="btn btn-info btn-group-sm" data-toggle="modal" data-target="#myModal">关注</a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-5 col-sm-push-7 col-xs-12">
+                <img src="img/psb (2).jpg" class="img-responsive quse wei2"/>
+            </div>
+            <div class="col-sm-7 col-sm-pull-5 col-xs-12">
+                <p class="text-right det_bot">
+                    和法记得凯撒宫的高科技阿凡达个法国空军的身份回归点解啊风格放假规和高房价将地方哈地方的发家第三方地方哈大家都发好多了和法规和高房价将地方哈地方的发家第三方地方哈大家都发好多了爱对方地方哈地方的发家第三方地方哈大家都发好多了爱对方答答复答爱对方答复答复</p>
+
+
+            </div>
+
+
+        </div>
+
+    </div>
+
+    <!--页面最底部部分-->
+    <!--<div class="footer">
+        <div class="container">
+            <div class="text-center">
+                <span>1771890984@qq.com &nbsp; Copyright ©2016</span>
+            </div>
+        <>
+
+    </div>
+     -->
+
+
+
+</div>
+
+<!--页面最底部部分-->
+<div class="footer">
+    <div class="container">
+        <div class="text-center">
+            <span>1771890984@qq.com &nbsp; Copyright ©2016</span>
+        </div>
+    </div>
+
+</div>
+
+
+<div id="myModal" class="modal fade " tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel"
+     aria-hidden="true">
+    <div class="modal-dialog modal-sm">
+        <div class="modal-content">
+            <div class="modal-header">
+                <a href="#" data-dismiss="modal"><span class="close">&times;</span></a>
+                <h4>我是一个学霸</h4>
+
+            </div>
+            <div class="modal-body">
+                <h4>我是一个天才</h4>
+            </div>
+            <div class="modal-footer">
+                <a href="#" class="btn btn-info">保存</a>
+                <a href="#" class="btn btn-danger" data-dismiss="modal"><span>关闭</span></a>
+            </div>
+        </div>
+    </div>
+</div>
+    <br/><br/><br/><br/><br/><br/><br/><br/>
+    <br/><br/><br/><br/><br/><br/><br/><br/>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <!--<script src="http://cdn.bootcss.com/jquery/1.11.2/jquery.min.js"></script>-->
+
+    <script src="js/jquery-1.11.3.js"></script>
+    <script src="js/index.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    <script>
+        (function () {
+            var s = document.createElement("script");
+            s.onload = function () {
+                bootlint.showLintReportForCurrentDocument([]);
+            };
+            s.src = "js/bootlint.js";
+            document.body.appendChild(s)
+        })();
+    </script>
+
+</body>
+</html>

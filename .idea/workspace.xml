@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e123773-9d74-4af3-8945-aa76405d6f65" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xiangce/000.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xiangce/1000.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xiangce/111.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/11111.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/11111a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/11a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xiangce/222.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/22222.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/22222a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/22a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/33.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xiangce/333.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/33333.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/33333a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/33a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/44.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/44444.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/44a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xiangce/555.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/55555.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/55555a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xiangce/666.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/66666.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xiangce/777.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/77777.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xiangce/888.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/88888.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/88888a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xiangce/999.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/99999.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/aaaaa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/aaaaaa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/aaaaaaxc.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bbbbb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bbbbba.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ccccc.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cccccxc.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cccccxc2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hexagon_mask.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hexagon_mask_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiehuan/css/fonts/icomoon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiehuan/css/fonts/icomoon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiehuan/css/fonts/icomoon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xiangying/index_pc---副本_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xiangying/index_pc---副本_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/xiangying/index_pc---副本_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/index_pc01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/index_pc02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/index_pc03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/psb (1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/psb (2).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/psb (3).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/psb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootlint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiehuan/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiehuan/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiehuan/css/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/guanyu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/guanyu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/html5shiv.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiehuan/css/fonts/icomoon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.11.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiehuan/js/jquery-1.11.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiehuan/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiehuan/js/jquery.stackslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiehuan/css/fonts/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiehuan/js/modernizr.custom.63321.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/riji.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/qiehuan/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/xiangce.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xiangce.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ziliao.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zuoping.html" />
+    </list>
+    <ignored path="liuhui0522.github.io.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="liuhui0522.github.io" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="366" />
+    <option name="y" value="31" />
+    <option name="width" value="1034" />
+    <option name="height" value="875" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liuhui0522.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liuhui0522.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liuhui0522.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liuhui0522.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liuhui0522.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\WebstormProjects\liuhui0522.github.io" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e123773-9d74-4af3-8945-aa76405d6f65" name="Default" comment="" />
+      <created>1476523003380</created>
+      <option name="number" value="Default" />
+      <updated>1476523003380</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="366" y="31" width="1034" height="875" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32876712" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
