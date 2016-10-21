@@ -5,4 +5,13 @@ $(function(){
 
 });
 
+$('.navbar-link').on('click',function(){
+    $(this).parent().removeClass('active');
+    if($(this).parent('.active')){
+        $(this).parent().removeClass('active');
+    }else{
+        this.parent().addClass('active');
+        $(this).parent().siblings().removeClass('active');
+    }
 
+})

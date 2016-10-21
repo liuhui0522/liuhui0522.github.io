@@ -1,0 +1,18 @@
+.zp{
+    color:#DC4E2A;
+
+}
+
+.zpimg{
+    margin-top:30px;
+    padding:10px;
+}
+
+
+.zpimg img{
+    border-radius: 3px;
+    /*-webkit-filter:grayscale(100%);*/
+}
+.zpimg img:hover{
+    /*-webkit-filter:grayscale(0%);*/
+}

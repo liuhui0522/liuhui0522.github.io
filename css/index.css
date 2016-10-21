@@ -248,4 +248,16 @@ div.footer .container{
 
 
 
+/*µ¼º½*/
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus{
+    background-color: transparent;
+}
 
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus{
+    background-color: transparent;
+}
+
+#menu ul>li.active{
+    background-color: #DF7778;
+    border-radius:9px;
+}

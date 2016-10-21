@@ -1,0 +1,31 @@
+.rjwz{
+    color:#DC4E2A;
+
+}
+.section .container{
+    padding:15px 40px;
+}
+.section .container .rjwz{
+    text-align: center;
+    margin-bottom:40px;
+}
+.rjwz p{
+    font-size:12px;
+}
+
+@media screen and (max-width:768px){
+    .col-md-6>.row>.col-sm-6{
+        border:1px solid #DC4E2A;
+        margin-top:20px;
+        border-radius:3px ;
+
+    }
+}
+@media screen and (max-width:420px){
+    .col-md-6>.row>.col-sm-6{
+        border:1px solid #DC4E2A;
+        margin-top:20px;
+        background-color: #E9E4C6;
+
+    }
+}

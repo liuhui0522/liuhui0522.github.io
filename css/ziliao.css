@@ -1,0 +1,83 @@
+#contentzl{
+    width:400px;height:300px;
+    position:relative;
+    z-index: 100;
+}
+#contentzl img{
+    position:relative;
+    /*width:300px;*/
+    z-index: 200;
+    border-radius: 15px;
+    /*border-right:1px solid #aaa;*/
+}
+canvas {
+    /*background-color: #eee;*/
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 300;
+}
+button {
+    background-color: #DF7778;
+    padding:6px 12px;
+    border-radius:15px 5px;
+    margin:15px 2px;
+    outline: 0;
+}
+
+#myChart{
+    margin-top:30px;
+    position:relative;
+}
+
+.yibufen{
+    color:#fff;
+}
+
+
+/*手风琴*/
+div.accordion{
+    width:60%;
+
+}
+div.accordion div{
+    color:#DC4E2A;
+    border:2px solid #DC4E2A;
+    margin-bottom:0;
+    cursor:pointer;
+    padding:10px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+div.accordion h3{
+    /*background-color:#EA795A;*/
+    color:#DC4E2A;
+    padding:5px;
+    cursor:pointer;
+    margin-bottom:0;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+/*散文图标部分qq*/
+.zlsw{
+    margin-top:30px;
+    color:#DC4E2A;
+    text-align: center;
+}
+
+.zlsw img{
+    width:30%;
+    margin-bottom:50px;
+}
+
+.section .container{
+    padding-top:40px;
+}
+
+.zlsq{
+    color:#DC4E2A;
+    text-align: center;
+    margin-top:20px;
+}
+
